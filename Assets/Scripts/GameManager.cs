@@ -36,13 +36,13 @@ public class GameManager : MonoBehaviour
 
     public void ItemsMenu()
     {
-        OnMainMenu?.Invoke();
+        OnItemsMenu?.Invoke();
         Debug.Log("Items Menu Actived");
     }
 
     public void ARPosition()
     {
-        OnMainMenu?.Invoke();
+        OnARPosition?.Invoke();
         Debug.Log("AR Position Actived");
     }
 
