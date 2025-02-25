@@ -4,8 +4,8 @@ Aplicación desarrollada para dispositivos Android, la cual permite explorar y c
 
 ## Software
 
-- Unity (preferiblemente versión 2019.4.40f1)
-- Visual Studio 2022
+- Unity (preferiblemente versión 2021.3.45f1).
+- Visual Studio 2019 o posterior.
 
 ### Lenguaje de programación
 
